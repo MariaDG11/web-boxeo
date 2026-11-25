@@ -1,0 +1,6 @@
+ESCUELA DE BOXEO PANEZ Y TITO - WEB EDITABLE
+
+Contenido: index.html (la web), carpeta data/ (textos y listas), carpeta imagenes/ (fotos), .pages.yml (configuración del panel Pages CMS).
+
+NOTA: al abrir index.html directamente en el ordenador, las listas no se cargan (el navegador lo bloquea). Funciona al publicarla en Internet.
+No borrar ni renombrar .pages.yml, data/ ni imagenes/.
